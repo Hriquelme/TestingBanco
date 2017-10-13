@@ -11,8 +11,8 @@ package modelo;
  */
 public class validadores {
     
-    public void validadores(){
-        
+    public validadores(){
+        //se modifica este metodo dejandolo como constructor inicial
     }
     
     public String quitaEspacios(String rut){
